@@ -15,6 +15,6 @@ public class Person {
         sb.append("\nName: ").append(this.name);
         sb.append("\nSurname: ").append(this.surname);
 
-        System.out.println(sb.toString());
+        System.out.println(sb);
     }
 }
